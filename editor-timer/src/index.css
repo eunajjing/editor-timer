@@ -1,0 +1,15 @@
+@import "~antd/dist/antd.css";
+@import url(//spoqa.github.io/spoqa-han-sans/css/SpoqaHanSans-kr.css);
+
+#root {
+  height: 100%;
+  margin: 5rem;
+}
+
+.ant-layout-header {
+  padding: 0;
+}
+
+.ant-popover-message-title {
+  padding-left: 0;
+}
